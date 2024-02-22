@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.14.7](https://github.com/hakadao/BewlyBewly/compare/v0.14.7...v0.14.7) (2024-02-22)
+
+
+### Bug Fixes
+
+* ts error ([e3de0b0](https://github.com/hakadao/BewlyBewly/commit/e3de0b028363ce675d5e1329005984ee4ffc5073))
+* **VideoCard:** bug fixes ([#316](https://github.com/hakadao/BewlyBewly/issues/316)) ([1790d3a](https://github.com/hakadao/BewlyBewly/commit/1790d3a921fe9598634ca3e540246be76041af6f))
+
 ## [0.14.7](https://github.com/hakadao/BewlyBewly/compare/v0.14.6...v0.14.7) (2024-02-18)
 
 
